@@ -9,7 +9,7 @@ this app display random memes user can share also. it uses Meme API which genera
 
 ## Run Locally
 
-Install App through this drive Link: https://drive.google.com/file/d/1PuKrmrVfnZgiH3-VGfRd8jPlsWxfavzm/view?usp=sharing
+Install App through this drive Link: https://drive.google.com/file/d/1xePnXphKcB5Bk-jRPEXeiC0QDg6KpLeK/view?usp=sharing
 
 ## Useful Links
 
