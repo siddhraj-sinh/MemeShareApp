@@ -18,4 +18,5 @@ Install App through this drive Link: https://drive.google.com/file/d/1xePnXphKcB
 3. Glide Repo: https://github.com/bumptech/glide
 4. Implementation Guide of Intents: https://developer.android.com/guide/components/intents-filters
 
-<img src="https://user-images.githubusercontent.com/69664213/117408931-38216080-af2e-11eb-8e5e-40327a1d4a80.jpg" width="428" height="1292">
+## Screenshot
+<img src="https://user-images.githubusercontent.com/69664213/117408931-38216080-af2e-11eb-8e5e-40327a1d4a80.jpg" width="320">
